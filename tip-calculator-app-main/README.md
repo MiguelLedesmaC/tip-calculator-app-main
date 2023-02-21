@@ -1,4 +1,4 @@
-## Frontend Mentor - Tip calculator app
+## Calculadora de propinas APP
 ## Descripcion
 
 Calculadora de propinas diseñada para ver porcentaje de propinas que tiene que dejar cada cliente de la mesa, en función de la cuenta
@@ -12,7 +12,7 @@ Esta hecha con Javascript, css y html
 
 
 ## Ver ejemplo en vivo
-✔️[ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
+✔️[Demo](https://miguelledesmac.github.io/tip-calculator-app-main/index.html)
 
 ## Instalacion
 Este proyecto no necesita instalacion. simplemente abre la carpeta o haz doble click en el .html
