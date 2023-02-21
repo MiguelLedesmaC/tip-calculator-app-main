@@ -53,9 +53,7 @@ people.addEventListener("input", () => {
 });
 tipBtns.forEach((btn) => {
     btn.addEventListener("click", () => {
-        console.log("click");
         if (people.value == 0 || people.value == "") {
-            console.log("entra");
             error.style.display = "inline";
         } else {
             error.style.display = "none";
