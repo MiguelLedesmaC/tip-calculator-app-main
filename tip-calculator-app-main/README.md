@@ -13,7 +13,7 @@ Esta hecha con Javascript, css y html
 
 ## Ver ejemplo en vivo
 ✔️[Demo](https://miguelledesmac.github.io/tip-calculator-app-main/index.html)
-
+https://miguelledesmac.github.io/tip-calculator-app-main/index.html
 ## Instalacion
 Este proyecto no necesita instalacion. simplemente abre la carpeta o haz doble click en el .html
 
